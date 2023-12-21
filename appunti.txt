@@ -1,0 +1,3 @@
+
+installiamo sass e bootstrao:
+$npm i sass bootstrap
